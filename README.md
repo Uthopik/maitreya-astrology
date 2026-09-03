@@ -1,6 +1,8 @@
 # maitreya-astrology
 A free software for vedic and western astrology
 
+- The proyect's official website (https://saravali.github.io/index.html)
+
 # AppImage version of Maitreya v8.2
 - **Maitreya-v1.2-x86_64.AppImage** **[Download](https://github.com/Uthopik/maitreya-astrology/releases/download/v8.2/Maitreya-v8.2-x86_64.AppImage)**
 - Right-click the **AppImage** file and grant permission via the **‘Permissions’** menu. Alternatively, in the terminal, grant permission using:
