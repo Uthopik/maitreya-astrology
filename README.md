@@ -1,5 +1,5 @@
 # maitreya-astrology
-A free software for Vedic and western astrology
+A free software for vedic and western astrology
 
 # AppImage version of Maitreya v8.2
 - **Maitreya-v1.2-x86_64.AppImage** **[Download](https://github.com/Uthopik/maitreya-astrology/releases/download/v8.2/Maitreya-v8.2-x86_64.AppImage)**
@@ -13,3 +13,4 @@ chmod +x ./Maitreya-v8.2-x86_64.AppImage
 
 - **Astronex v2.1 python 3 version.** **[Here](https://uthopik.github.io/astronex)**
 - **Morinus 8.2** **[Here](https://github.com/Uthopik/morinus-astrology)**
+- **Openastro 1.2** **[Here](https://github.com/Uthopik/openastro-astrology)**
